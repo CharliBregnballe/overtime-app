@@ -10,11 +10,6 @@ namespace :notification do
     #   SmsTool.send_sms()
     # end
 
-
-
-    # No spaces or dashes
-    # Exactly 10 characters
-    # all characters have to be a number
   end
 
 end
