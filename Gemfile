@@ -44,3 +44,4 @@ gem 'twilio-ruby', '~> 4.13'
 gem 'dotenv-rails', :groups => [:development, :test]
 gem 'kaminari'
 gem 'rails_12factor'
+gem 'newrelic_rpm'
