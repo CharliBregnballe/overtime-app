@@ -10,6 +10,7 @@ FactoryGirl.define do
     date Date.yesterday
     work_performed "Some more content"
     user
+    daily_hours 8.0
   end
 
   factory :post_from_other_user, class: "Post" do
