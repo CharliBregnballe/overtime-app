@@ -3,7 +3,7 @@ FactoryGirl.define do
     date Date.today
     rationale "Some Rationale"
     user
-    overtime_request 3.5
+    daily_hours 12.5
   end
 
   factory :second_post, class: "Post" do
@@ -16,6 +16,6 @@ FactoryGirl.define do
     date Date.yesterday
     rationale "Some more content"
     non_authorized_user
-    overtime_request 0.5
+    daily_hours 8.0
   end
 end
