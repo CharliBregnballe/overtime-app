@@ -102,7 +102,7 @@ GEM
     factory_girl_rails (4.7.0)
       factory_girl (~> 4.7.0)
       railties (>= 3.0.0)
-    ffi (1.9.14)
+    ffi (1.12.2)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
     gritter (1.2.0)
